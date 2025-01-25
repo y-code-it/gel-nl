@@ -1,0 +1,36 @@
+File opened successfully
+[1m[32m****GET NEXT LINE****
+[0m[1m[31m****READ TO BUFF****
+[0mFREE buffer:{}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{Welco}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{Welcome to}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{Welcome to the }
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{Welcome to the file!}
+[1m[34m****EXTRACT LINE****
+[0mFREE buffer:{Welcome to the file!
+This}
+[36m[Welcome to the file!
+][0m[1m[32m****GET NEXT LINE****
+[0m[1m[31m****READ TO BUFF****
+[0mFREE buffer:{This}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{This is t}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{This is the fi}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{This is the first l}
+[1m[31m****READ TO BUFF****
+[0mFREE buffer:{This is the first line.}
+[1m[34m****EXTRACT LINE****
+[0melse FREE buffer:{This is the first line.}
+NULL buffer:{(null)}
+[36m[This is the first line.][0m[1m[32m****GET NEXT LINE****
+[0m[1m[31m****READ TO BUFF****
+[0mFREE buffer:{}
+FREE buffer:{}
+
+File closed successfully
